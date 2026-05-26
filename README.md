@@ -11,8 +11,8 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho:
 
 ![Excel](https://shields.io)
 ![Power BI](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+![Trello](https://shields.io)
+
 
 * **Análise de Dados:** Estruturação de bases de dados, métodos estatísticos e geração de insights.
 * **Ferramentas Técnicas:** QGIS, Fusion 360 e KiCad.
