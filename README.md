@@ -1,7 +1,7 @@
 # Curriculo Amanda
-### Estudante de Engenharia de Biossistemas | Gestão de Projetos | Análise de Dados
+### Estudante de Engenharia de Biossistemas 
 
-Sou estudante de Engenharia de Biossistemas na UNESP com foco em gestão ágil, tecnologia e operações digitais. Possuo perfil analítico e orientado à execução, com experiência prática liderando iniciativas acadêmicas, organizando processos e estruturando bancos de dados para suporte à tomada de decisão.
+Sou estudante de Engenharia de Biossistemas na UNESP com experiência em gestão de projetos, organização operacional e análise de dados. Atuou em iniciativas acadêmicas e institucionais envolvendo planejamento, acompanhamento de demandas, alinhamento entre equipes e melhoria de processos. Possui perfil analítico, comunicativo e orientado à execução, com interesse em gestão ágil, tecnologia e operações digitais.
 
 ---
 
