@@ -22,6 +22,12 @@ Aqui estão as ferramentas e tecnologias com as quais trabalho:
 
 ## 💼 Experiência Acadêmica e Extracurricular
 
+### 🔬🌱 Bolsista FEPAF – Grupo de Pesquisa BIOAGRO- (Atual)
+* Aplicação de métodos químicos laboratoriais e análise de variáveis experimentais relacionadas à 
+dinâmica do solo
+* Planejamento e organização de cronogramas experimentais, garantindo o cumprimento das etapas do 
+projeto
+* Tratamento, interpretação e análise de dados experimentais para suporte à validação de resultados.
 ### 📊 Empreender Jr — Analista
 *Outubro de 2024 – Janeiro de 2026*
 * Apoio na organização, priorização e acompanhamento de projetos e demandas internas.
